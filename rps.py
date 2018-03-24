@@ -6,7 +6,7 @@ def is_valid_play(play):
 
 
 def random_play():
-    return random.choice(['rock', 'paper', 'scissors'])
+    return random.choice(['rock', 'paperssss', 'scissors'])
 
 
 def determine_game_result(human, computer):
